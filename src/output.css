@@ -317,6 +317,9 @@
   .bg-\[url\(\.\.\/img\)\] {
     background-image: url(../img);
   }
+  .bg-\[url\(\.\.\/img\/nature\.jpg\)\] {
+    background-image: url(../img/nature.jpg);
+  }
   .bg-\[url\(\.\/\)\] {
     background-image: url(./);
   }
@@ -328,6 +331,9 @@
   }
   .bg-\[url\(\.\/img\/\)\] {
     background-image: url(./img/);
+  }
+  .bg-\[url\(\.\/img\/nature\.jpg\)\] {
+    background-image: url(./img/nature.jpg);
   }
   .bg-\[url\(\/\)\] {
     background-image: url(/);
